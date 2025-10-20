@@ -15,4 +15,4 @@ This project showcases a modern coffee shop design with sections like **Home**, 
 
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and responsive grid layout  
-- **JavaScript** (optional) – For simple interactivity (if added later)  
+- **JavaScript** (optional) – For simple interactivity (if added later).
